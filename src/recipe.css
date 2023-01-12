@@ -1,0 +1,32 @@
+.recipes {
+    background-image: url(./image2.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    margin: 20px;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 40%;
+    padding: 20px;
+    border: 5px solid rgb(57, 57, 57);
+}
+.recipes .re-ing {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.recipes .tittle {
+    display: flex;
+    justify-content: center;
+}
+.recipes .gambar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10% 50% 10% 50%;
+    padding-bottom: 30px;
+    
+}
